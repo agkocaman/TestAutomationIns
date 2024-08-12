@@ -36,7 +36,7 @@ This is a simple test automation project. It uses Python and Selenium. The proje
    ```
 6. Run the test:
    ```bash
-   python tests/test_insider.py
+   python tests/main.py
    ```
 
 ## Notes
