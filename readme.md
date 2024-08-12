@@ -30,7 +30,7 @@ This is a simple test automation project. It uses Python and Selenium. The proje
    pip install webdriver-manager
    ```
 4. Download the browser driver (ChromeDriver or GeckoDriver).
-5. Set the browser you want to use in `tests/test_insider.py`:
+5. Set the browser you want to use in `tests/main.py`:
    ```python
    browser = "chrome"  # Change this to "firefox" to use Firefox
    ```
